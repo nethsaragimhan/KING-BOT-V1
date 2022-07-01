@@ -1,3 +1,4 @@
+modle exports=>
 FROM node:latest
 
 RUN git clone https://github.com/KING-BOT-OFFICIAL/V1 /root/V1
