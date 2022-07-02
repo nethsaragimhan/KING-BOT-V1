@@ -15,7 +15,7 @@
         }, 
         "FOOTER":  {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "KING-BOT-MD ²⁰²²" ,
             "required": true
        },
         "ALIVE_LOGO": {
