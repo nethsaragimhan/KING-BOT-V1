@@ -6,7 +6,7 @@
     "stack": "container",
     "env": {
       "KINGBOT_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@timashabuddila1/KING-BOT-V1?v=1. KINGBOT qr කේතය යොදන්න.",
+            "description": "Paste your QR session that you got from https://replit.com/@timashabuddila1/KING-BOT-MD-QR KINGBOT qr කේතය යොදන්න.",
             "required": true
         },
           "MENU_CMD": {
